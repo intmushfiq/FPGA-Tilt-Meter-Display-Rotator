@@ -10,4 +10,5 @@ Input: Read full X, Y, Z acceleration data.
 Output: Display a fixed character that rotates (∩) based on roll angle thresholds. Use 8 onboard LEDs as a digital spirit level indicating the magnitude of the pitch angle (forward/backward tilt).
 
 
+YouTube Link - https://youtu.be/dHNygxtZgfk?si=oNPCj8PKV25jcnPz
 
